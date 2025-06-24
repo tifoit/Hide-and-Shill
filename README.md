@@ -57,6 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Citation
 If you use this framework in your research, please cite our paper:
 
+```bibtex
 @article{yourpaper,
   title={Hide-and-Shill: A Multi-Agent Reinforcement Learning Framework for Detecting Discourse-Based Market Manipulation in DeFi},
   author={Authors},
