@@ -37,7 +37,7 @@ git clone https://github.com/tifoit/Hide-and-Shill.git
 cd Hide-and-Shill
 pip install -r requirements.txt
 
-## Running the Framework
+### Running the Framework
 ```bash
 python main.py --mode train --config config.yaml
 
