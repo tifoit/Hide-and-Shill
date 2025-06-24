@@ -51,3 +51,15 @@ python main.py --mode train --config config.yaml
 - [Framework Architecture](docs/architecture.md)
 - [API Reference](docs/api.md)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+If you use this framework in your research, please cite our paper:
+@article{yourpaper,
+  title={Hide-and-Shill: A Multi-Agent Reinforcement Learning Framework for Detecting Discourse-Based Market Manipulation in DeFi},
+  author={Authors},
+  journal={Management Science},
+  year={2025}
+}
+
