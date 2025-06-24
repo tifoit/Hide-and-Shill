@@ -40,34 +40,3 @@ pip install -r requirements.txt
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Getting Started
-### Prerequisites
-- Python 3.8+
-- PyTorch 2.1
-- Ray RLlib
-- NVIDIA CUDA 11.7+
-
-### Installation
-```bash
-git clone https://github.com/tifoit/Hide-and-Shill.git
-cd Hide-and-Shill
-pip install -r requirements.txt
-
-
