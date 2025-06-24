@@ -36,7 +36,18 @@ Our framework demonstrates state-of-the-art (SOTA) performance in detecting subt
 git clone https://github.com/tifoit/Hide-and-Shill.git
 cd Hide-and-Shill
 pip install -r requirements.txt
+```
 
+## Running the Framework
+```bash
+python main.py --mode train --config config.yaml
+```
 
+## Dataset
+- **Real-World Data**: 100,000 posts and 600,000 comments from Twitter, aligned with 50 million minute-level price points from CoinGecko and Uniswap V3.
+- **Synthetic Data**: 50,000 episodes generated using DeepSeek-32B.
 
+## Documentation
+- [Framework Architecture](docs/architecture.md)
+- [API Reference](docs/api.md)
 
